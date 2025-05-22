@@ -8,5 +8,4 @@
 .json
 .backend.__pycache__
 
-.txt
-.subscribers
+subscribers.json
