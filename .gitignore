@@ -2,8 +2,8 @@
 .env.local
 .env.*.local
 
-.trash
-.trash.*
+trash
+trash.*
 
 .json
 .backend.__pycache__
